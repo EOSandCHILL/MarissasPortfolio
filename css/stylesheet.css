@@ -712,3 +712,7 @@ u {
   text-decoration-color: #40c057;
   text-decoration-thickness: 2px;
 }
+
+li {
+  padding-bottom: 25px;
+}
