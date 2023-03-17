@@ -1,5 +1,5 @@
 $(window).on("load", function () {
-  $(".loader .inner").fadeOut(5000, function () {
+  $(".loader .inner").fadeOut(3000, function () {
     $(".loader").fadeOut(350);
   });
 });
@@ -14,12 +14,12 @@ $(document).ready(function () {
   var typed = new Typed(".typed", {
     strings: [
       "I.T. Support",
-      "Project Management",
-      "I.T. Help Desk",
+      "Identity & Access Management",
       "Information Technology",
       "Web Development",
       "Technical Support",
       "Cyber Security",
+      "Project Management",
     ],
     typeSpeed: 65,
     loop: true,
