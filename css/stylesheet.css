@@ -13,6 +13,25 @@ body {
   background-color: #0f0f3a;
 }
 
+ul li {
+  padding: 3px;
+}
+
+.gglcert {
+  border-radius: 8px;
+  border: 2px solid #ffffff;
+  -webkit-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+  transition: 0.5s ease;
+}
+
+.gglcert:hover {
+  transition: 0.5s ease;
+  box-shadow: 0 0 15px 0 #40c057 inset, 0 0 20px 2px #40c057;
+  border: 2px solid #40c057;
+  transition: 0.5s ease;
+}
+
 .slides-navigation .prev,
 .slides-navigation .next {
   width: 47px;
@@ -711,8 +730,4 @@ u {
   text-decoration: underline;
   text-decoration-color: #40c057;
   text-decoration-thickness: 2px;
-}
-
-li {
-  padding-bottom: 25px;
 }
