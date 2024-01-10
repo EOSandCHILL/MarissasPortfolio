@@ -6,7 +6,7 @@ My most recent technical endeavors:
 
 Collaborated with professional software engineers to develop my I.T. portfolio which uses technologies like HTML5, CSS3, JavaScript, Google APIs, VS Code, Chrome Developer Tools, Git, GitHub, Linux, and Jira.
 Completed and received two Google Course Certificates: Google Technical Support Fundamentals and Google Computer Networking.
-Currently completing Google's I.T. Support Professional Certificate, course 3 of 5, Operating Systems and You: Becoming a Power User. This course will allow me to gain experience with the main components of an operating system and how to perform critical tasks like managing software and users, and configuring hardware.
+Currently completing Google's I.T. Support Professional Certificate, course 3 of 5, Operating Systems and You: Becoming a Power User. This course will allow me to gain experience with the main components of an operating system and how to perform critical tasks like managing software and users and configuring hardware.
 
 My 3-year plan:
 
