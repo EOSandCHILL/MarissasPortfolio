@@ -13,13 +13,12 @@ $(document).ready(function () {
 
   var typed = new Typed(".typed", {
     strings: [
-      "I.T. Support",
-      "Identity & Access Management",
-      "Information Technology",
-      "Web Development",
       "Technical Support",
-      "Cyber Security",
-      "Project Management",
+      "Information Technology",
+      "I.T. Help Desk",
+      "Army Veteran",
+      "Customer Support",
+      "Cybersecurity",
     ],
     typeSpeed: 65,
     loop: true,
