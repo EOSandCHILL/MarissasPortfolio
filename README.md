@@ -1,23 +1,13 @@
-Hello I'm Jerry and welcome to my SWE portfolio!
+Who am I:
 
-I am an Innovative and driven Marine Corps Veteran, with 10 years of experience in the technology industry (civilian, federal, and academically). I am in the process of finishing my bachelor’s in software development while constantly gaining new skills as a full-stack software developer at Land Intelligence, a SaaS Prop-Tech company, in Columbia, SC. My mission is to create easier access to resources for everyone, using my skills to develop scalable business, federal, and personal life-enhancing software.
+Hello! I'm Marissa, an IT help desk technician and an Army veteran. I'm proficient in diagnosing and resolving technical issues, providing technical support, and assisting users with computer and software problems. Rooted in discipline from my military background, I bring a detail-oriented approach to ensure efficiency and precision in problem-solving. As a leader, I prioritize effective communication, foster collaboration, and maintain a commitment to creating a positive team environment. My dedication to excellence is evident in guiding my team through challenges and delivering exceptional customer service. Looking forward, I aim to further advance my technical skills, explore leadership opportunities, and contribute to the dynamic field of information technology, leveraging my unique combination of military and IT expertise.
 
-Experience:
+My most recent technical endeavors:
 
-FULLSTACK SOFTWARE ENGINEER, LAND INTELLIGENCE
-• I developed code, using React, that allows investors to apply for debt on our platform when they’re investing in land. This also allowed the company to gain a financial partnership and generate up to 5% in revenue from every loan application.
+Collaborated with professional software engineers to develop my I.T. portfolio which uses technologies like HTML5, CSS3, JavaScript, Google APIs, VS Code, Chrome Developer Tools, Git, GitHub, Linux, and Jira.
+Completed and received two Google Course Certificates: Google Technical Support Fundamentals and Google Computer Networking.
+Currently completing Google's I.T. Support Professional Certificate, course 3 of 5, Operating Systems and You: Becoming a Power User. This course will allow me to gain experience with the main components of an operating system and how to perform critical tasks like managing software and users, and configuring hardware.
 
-• I developed code, using Node.JS, that allows customers to utilize coupons for company promotions. I also developed code, using React, that made changes to the application user interface to promote products on sale. This has allowed the company to increase its user count by 15% in a month during the sale/promotion.
+My 3-year plan:
 
-• I utilize web-based digital intelligence systems that allow me to improve our customer's experience by tracking and monitoring user activity. I track user sessions, page transitions, rage clicks, and checkout funnels which helps me determine how to increase the users' experience.
-
-• I reviewed and pushed code to production, allowing land and GIS data to be more high-quality and detailed for our customers. This allows over 80% of the users to find and invest in land that fits their specific land development needs.
-
-• I am responsible for creating product and technical documentation for 6 financial products and 2 financial projects that I’m currently managing, generating 30% of the company’s revenue.
-
-• I utilize software tools like Atlassian’s Jira for workflow and confluence for documentation, I use HubSpot for business integrations, SharePoint for team documents, Stripe for payment integrations, FullStory for UI/UX feedback, AWS for running builds, Figma for wireframing, Docker for running and building apps, MySQL to manage company databases, Slack and Teams for communication, GIT and GitHub to manage repositories daily.
-
-• I am responsible for sprint planning internally and in collaboration with 3rd party companies to assist with parallel development for our SaaS products.
-
-• I am responsible for maintaining and upgrading the company's large
-Web-based SaaS Prop-Tech application utilizing React, SCSS, Node.JS, Solidity, and MySQL.
+Now that I have obtained my Google I.T. Support Professional Certificate, I will obtain the CompTIA A+ certification. I will also attend Western Governors University and graduate with my bachelor's degree in Cybersecurity and Information Assurance by 2028.
