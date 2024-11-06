@@ -14,11 +14,11 @@ $(document).ready(function () {
   var typed = new Typed(".typed", {
     strings: [
       "Technical Support",
-      "Information Technology",
+      "System Administrator",
       "I.T. Help Desk",
       "Army Veteran",
-      "Customer Support",
-      "Cybersecurity",
+      "Support Technician",
+      "I.T. Administrator",
     ],
     typeSpeed: 65,
     loop: true,
