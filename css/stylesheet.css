@@ -731,3 +731,8 @@ u {
   text-decoration-color: #40c057;
   text-decoration-thickness: 2px;
 }
+
+.statsSection h3.comptia {
+  color: #40c057 !important;
+  font-size: 1.85em !important;
+}
