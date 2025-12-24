@@ -13,12 +13,12 @@ $(document).ready(function () {
 
   var typed = new Typed(".typed", {
     strings: [
-      "Technical Support",
-      "System Administrator",
-      "I.T. Help Desk",
-      "Army Veteran",
-      "Support Technician",
-      "I.T. Administrator",
+      "IT Support Specialist",
+      "Endpoint Support Technician",
+      "IAM Support Technician",
+      "Azure Virtual Desktop Support",
+      "Microsoft Entra ID / Intune",
+      "U.S. Army Veteran",
     ],
     typeSpeed: 65,
     loop: true,
